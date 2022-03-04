@@ -34,5 +34,5 @@ yarn dev
 <span>O projeto estará disponivel no  http://localhost:3000</span>
 
 ## Screenshots
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/rodrigopfialho/dashgo/blob/main/public/images/p1.png)
+![App Screenshot](https://github.com/rodrigopfialho/dashgo/blob/main/public/images/p2.png)
