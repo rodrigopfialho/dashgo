@@ -19,3 +19,20 @@ seus aplicativos React </p>
 
 ## Configuração do projeto
 ```
+# Abra o terminal e clone o repositório com o comando
+git clone https://github.com/rodrigopfialho/dashgo.git
+```
+
+```
+yarn 
+
+- Inicializar o Projeto
+
+yarn dev
+```
+
+<span>O projeto estará disponivel no  http://localhost:3000</span>
+
+## Screenshots
+![App Screenshot]()
+![App Screenshot]()
