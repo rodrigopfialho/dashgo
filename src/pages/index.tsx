@@ -22,8 +22,6 @@ export default function SignIn() {
 
   const handleSignIn: SubmitHandler<SignInFormData> = async (values) => {
     await new Promise(resolve => setTimeout(resolve, 2000))
-
-  
   }
 
   return (
@@ -62,6 +60,8 @@ export default function SignIn() {
           />
         </Stack>  
         <Button 
+          as="a"
+          href="/dashboard"
           type="submit" 
           mt="6" 
           colorScheme="pink" 
